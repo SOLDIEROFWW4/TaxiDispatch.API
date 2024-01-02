@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5I3GBdks6UWvWMYvjxxOUwE/9YqYZplePpM7JASrvqA=",
+  "Source": "TaxiDispatch.API",
+  "BasePath": "_content/TaxiDispatch.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
